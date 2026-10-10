@@ -1,0 +1,6 @@
+Django
+psycopg[binary]
+django-cors-headers
+pandas
+openpyxl
+gunicorn
